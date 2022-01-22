@@ -75,7 +75,7 @@ function organizeFn(dirPath) {
   // this doesExist will tell the Target Folder exists or not
 
   if (doesExist == true) {
-    destPath = path.join(dirPath, "organized_Files"); // D:\Batches\FJP-4\testFolder\organized_files- we are ready to create folder her
+    destPath = path.join(dirPath, "organized_Files"); // D:\testFolder\organized_files- we are ready to create folder her
 
     // we created a path for organized_Files Folder
 
